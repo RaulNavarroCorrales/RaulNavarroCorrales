@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Raúl from Madrid, Spain.<br><br>- 🔭 I’m working as Software Developper.<br>- 📚 I'm currently learning Spring Boot and Angular.<br>- ⚡ In my free time, I love practising different sports.</p>
+<p align="left">I'm Raúl from Madrid, Spain.<br><br>- 🔭 I’m working as Software Developer.<br>- 📚 I'm currently learning Spring Boot and Angular.<br>- ⚡ In my free time, I love practising different sports.</p>
 
 ###
 
