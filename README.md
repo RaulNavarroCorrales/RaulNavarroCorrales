@@ -1,11 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <a href="www.linkedin.com/in/raúl-navarro-corrales-808131273" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Raúl from Madrid, Spain.<br><br>- 🔭 I’m working as Software Developper.<br>- 📚 I'm currently learning Spring Boot and Angular.<br>- ⚡ In my free time, I love doing different sports.</p>
+<p align="left">I'm Raúl from Madrid, Spain.<br><br>- 🔭 I’m working as Software Developper.<br>- 📚 I'm currently learning Spring Boot and Angular.<br>- ⚡ In my free time, I love practising different sports.</p>
 
 ###
 
@@ -71,3 +73,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaulNavarroCorrales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulNavarroCorrales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
