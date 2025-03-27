@@ -73,20 +73,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RaulNavarroCorrales/count.svg?"  />
-</div>
-
-###
