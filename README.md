@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Raúl from Spain<br><br>- 🔭 I’m working as Software Developper<br>- 📚 I'm currently learning Spring Boot and Angular<br>- ⚡ In my free time, I love doing different sports</p>
 
 ###
 
